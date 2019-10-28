@@ -1,4 +1,4 @@
-## React
+## Weather app SPA created in React
 
 
 From the terminal or command line
@@ -13,4 +13,7 @@ npm install
 npm run start
 ```
 
-3. View the app by opening your browser to `http://localhost:3000` 
+3. View the app by opening your browser to 
+```
+http://localhost:3000
+``` 
