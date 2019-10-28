@@ -1,0 +1,18 @@
+.weather-container {
+    background: rgba(0,0,0,.65);
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    max-width: 320px; /* iPhone 5 */
+    max-height: 420px;
+    padding: 32px;
+}
+.weather-row {
+    flex: 1;
+}
+.weather-row .weather-date {
+    font: 400 20px/1.5 Arial,Helvetica,sans-serif;
+}
+img.weather-icon {
+    width: 128px;
+}
